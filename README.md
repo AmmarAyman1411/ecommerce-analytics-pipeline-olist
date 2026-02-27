@@ -143,8 +143,6 @@ The Power BI report has three main pages:
 
 ### Screenshots
 
-*(Add your exported screenshots here. Example paths:)*
-
 - **Executive Overview**  
   ![Executive Overview](powerbi/screenshots/overview.png)
 
@@ -153,8 +151,6 @@ The Power BI report has three main pages:
 
 - **Customer & Satisfaction**  
   ![Satisfaction](powerbi/screenshots/satisfaction.png)
-
-*(If screenshots are not yet added, place PNGs in `powerbi/screenshots/` and use the names above.)*
 
 ---
 
@@ -175,5 +171,3 @@ The Power BI report has three main pages:
 - Olist dataset: follow [Kaggle dataset terms](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) and cite Olist when referencing the data.
 
 ---
-
-*Built as a portfolio project for data analyst and junior data scientist roles.*
